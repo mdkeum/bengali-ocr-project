@@ -32,3 +32,7 @@ pip install -r requirements.txt
 
 - GPU acceleration is recommended for faster OCR processing.
 - Dataset is not included due to size/privacy.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
