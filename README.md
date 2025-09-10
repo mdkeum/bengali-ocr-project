@@ -5,7 +5,22 @@ This project benchmarks Tesseract OCR and EasyOCR on a diverse set of Bengali do
 ## Setup
 
 - Developed and tested in Google Colab.
-- Requires Python packages: `easyocr`, `opencv-python-headless`.
+
+## Installation
+
+This project requires the following Python packages:
+
+- matplotlib
+- seaborn
+- pandas
+- easyocr
+- opencv-python-headless
+
+You can install all dependencies using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
