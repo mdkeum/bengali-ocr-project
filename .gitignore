@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Google Drive mount (if any local mount folders)
+drive/
+
+# Dataset files (if stored locally)
+*.png
+*.jpg
+*.jpeg
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
